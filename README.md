@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farook Basha</h1>
-<h3 align="center" style=color:red >A passonate software engineer </h3>
+<h3 align="center" style=color:red >A passonate Mern Stack Developer </h3>
 "
 <img align="right" alt="coding" width="400" src=https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif>
 
