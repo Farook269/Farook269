@@ -1,30 +1,145 @@
+
 <h1 align="center">Hi 👋, I'm Farook Basha</h1>
-<h3 align="center" style=color:red >A passonate AI Full Stack Developer  </h3>
-"
-<img align="right" alt="coding" width="400" src=https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif>
 
+<h3 align="center">AI Engineer @ Letitbex AI | Generative AI | Agentic AI | Enterprise AI Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farook269&label=Profile%20views&color=0e75b6&style=flat" alt="farook269" /> </p>
-
-- 📫 How to reach me **farookbashamulla269@gmail.com**
-
-- ⚡ Fun fact **I am funny😀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mullafarookbasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mullafarookbasha" height="30" width="40" /></a>
-<a href="https://fb.com/mullafarookbasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mullafarookbasha" height="30" width="40" /></a>
-<a href="https://instagram.com/farookbashamulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farookbashamulla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mullafarookbasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mullafarookbasha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/farookbasha269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farookbasha269" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/farookbasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="farookbasha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Solutions;Generative+AI+%7C+Agentic+AI+%7C+RAG;Developing+Scalable+Enterprise+Applications;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Farook269&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Farook269?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farook269&show_icons=true&locale=en&layout=compact" alt="farook269" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farook269&show_icons=true&locale=en" alt="farook269" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farook269&" alt="farook269" /></p>
+I'm an **AI Engineer at Letitbex AI**, specializing in **Generative AI, Agentic AI, and Enterprise AI Solutions**.
+
+Passionate about transforming innovative ideas into intelligent, scalable, and production-ready applications.
+
+- 🤖 Building **Agentic AI Systems, Multi-Agent Architectures, and LLM Applications**.
+- 🧠 Developing **RAG Pipelines and Enterprise Document Intelligence Solutions**.
+- 🎙️ Building **Real-Time Voice AI and Conversational AI Assistants**.
+- ⚙️ Working with **Python, LangChain, LangGraph, FastAPI, and Azure OpenAI**.
+- 🌐 Experienced in full-stack development using **React.js, Node.js, Express.js, and MongoDB**.
+- 🤝 Actively collaborating through technical discussions, GitHub workflows, pull requests, and code reviews.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+**Generative AI & Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+Generative AI | Agentic AI | LLMs | RAG | LangChain | LangGraph | Multi-Agent Systems | Prompt Engineering | Hugging Face | Scikit-learn
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+**Databases & Vector Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+MongoDB | MySQL | FAISS | Qdrant | Milvus
+
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman" />
+</p>
+
+Azure OpenAI | Ollama | LiveKit | Vercel | Render | REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Enterprise Document Intelligence** – On-premises RAG system featuring local LLMs, semantic search, document intelligence, and source citations.
+
+🔹 **Real-Time Voice AI Assistant** – Agentic conversational voice assistant powered by LiveKit and Google Gemini Realtime Audio.
+
+🔹 **CureConnect** – MERN-based healthcare management platform integrated with Google Gemini AI.
+
+🔹 **Hotel Dream Resort** – Web-based hotel management and reservation system.
+
+<p align="center">
+  <a href="https://github.com/Farook269?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://livekit-agent-211.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Voice%20AI%20Demo-0A84FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- ⭐ **Weekly Star Performer Award – Letitbex AI:** Recognized for outstanding contributions, consistent performance, ownership, and quality delivery.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farook269&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farook269&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farook269&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mullafarookbasha">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/Farook269">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+ 
+  <a href="mailto:farookbashamulla269@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> farookbashamulla269@gmail.com
+  <br/>
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mullafarookbasha">Connect with me</a>
+  <br/>
+  💻 <b>GitHub:</b> <a href="https://github.com/Farook269">Farook269</a>
+</p>
+
+---
+
+<h3 align="center">💡 Always Learning | Constantly Innovating | Building Intelligent Solutions</h3>
+
+<p align="center">
+  <i>"Turning complex problems into intelligent solutions, one commit at a time."</i>
+</p>
